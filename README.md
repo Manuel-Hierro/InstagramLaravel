@@ -1,3 +1,13 @@
+# InstagramLaravel
+Aplicación de Laravel parecido a Instagram
+
+# Ejecucion
+- http://localhost/InstagramLaravel/public
+
+# Credenciales de Acceso
+- User: manuel@manuel.com
+- Pass: manuel@1234
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
