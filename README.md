@@ -1,6 +1,9 @@
 # InstagramLaravel
 Aplicación de Laravel parecido a Instagram
 
+# Instalacion
+- Usar la Base de Datos -> db_instagram
+
 # Ejecucion
 - http://localhost/InstagramLaravel/public
 
