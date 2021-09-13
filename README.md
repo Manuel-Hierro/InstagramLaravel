@@ -6,7 +6,7 @@ Aplicación de Laravel parecido a Instagram
 - Comando: composer install
 
 # Ejecucion
-- http://localhost/InstagramLaravel/public
+- http://localhost/instagram-laravel/public
 
 # Credenciales de Acceso
 - User: manuel@manuel.com
