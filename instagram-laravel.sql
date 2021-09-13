@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS db_instagram;
-USE db_instagram;
+CREATE DATABASE IF NOT EXISTS instagram-laravel;
+USE instagram-laravel;
 
 CREATE TABLE IF NOT EXISTS users(
 id              int(255) auto_increment not null,

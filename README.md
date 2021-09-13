@@ -2,7 +2,7 @@
 Aplicación de Laravel parecido a Instagram
 
 # Instalacion
-- Usar la Base de Datos: db_instagram
+- Usar la Base de Datos: instagram-laravel
 - Comando: composer install
 
 # Ejecucion
